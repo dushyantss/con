@@ -2,7 +2,12 @@
 name = "con"
 version = "0.1.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Dushyant Singh Shekhawat <contact@dushyantss.com>"]
+readme = "README.md"
+description = "Reimplementation of cat into rust"
+repository = "https://github.com/dushyantss/con.git"
+license = "MIT"
+keywords = ["cat", "con", "concat"]
+categories = ["command-line-utilities"]
 
 [dependencies]
