@@ -1,13 +1,13 @@
 [package]
-name = "con"
+name = "rs-cat"
 version = "0.1.0"
 edition = "2021"
 authors = ["Dushyant Singh Shekhawat <contact@dushyantss.com>"]
 readme = "README.md"
 description = "Reimplementation of cat into rust"
-repository = "https://github.com/dushyantss/con.git"
+repository = "https://github.com/dushyantss/rs-cat.git"
 license = "MIT"
-keywords = ["cat", "con", "concat"]
+keywords = ["cat", "rs-cat"]
 categories = ["command-line-utilities"]
 
 [dependencies]
